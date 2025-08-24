@@ -8,11 +8,14 @@ redirect_from:
   - /teach.html
 ---
 
-* **Large Sample Theory** 
-  * Fall 2023, postgraduate and undergraduate course by Prof. Song Xi Chen
-
-* **Advanced Multivariate Statistical Analysis**
-  * Fall 2022, postgraduate and undergraduate course by Prof. Song Xi Chen
-
 * **Probability and Statistics**
-  * Spring 2022 and 2021, undergraduate course by Prof. Minya Xu 
+   Spring 2023, undergraduate course by Assoc. Prof. [Zhonghao Xu](https://faculty.ecnu.edu.cn/_s35/xzh2/main.psp)
+* **Econometrics**
+   Spring 2023, undergraduate course by Asst. Prof. [Chaojun Li](https://faculty.ecnu.edu.cn/_s35/lcj2/main.psp)
+* **Economic Statistics**
+   Fall 2022, undergraduate course by Asst. Prof. [Chaojun Li](https://faculty.ecnu.edu.cn/_s35/lcj2/main.psp)
+* **Advanced Probability Theory**
+   Fall 2022 and Fall 2021, postgraduate and doctoral course by Asst. Prof. [Jinjiong Yu](https://faculty.ecnu.edu.cn/_s35/yjj2/main.psp)
+* **Ordinary Differential Equations**
+   Spring 2022, undergraduate course by Asst. Prof. [Jinjiong Yu](https://faculty.ecnu.edu.cn/_s35/yjj2/main.psp)
+

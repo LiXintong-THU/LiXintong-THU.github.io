@@ -10,31 +10,31 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Han Yan"
+name                     : &name "Xintong Li"
 description              : &description "personal description"
-url                      : https://hanyan-stat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xintongli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hanyan-stat/hanyan-stat.github.io"
+repository               : "LiXintong-THU/xintongli.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "HanYan-2025.jpg"
-  name             : "Han Yan (闫晗)"
+  avatar           : "xtli.JPG"
+  name             : "Xintong Li (李鑫桐)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in statistics at Peking University"
+  bio              : "PostDoc in statistics at Tsinghua University"
   location         : "Beijing, China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "hanyan@stu.pku.edu.cn" 
+  email            : "xtli@tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=jqf-dVIAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=jqf-dVIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-7978-9836"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hanyan-stat"
+  github           : "LiXintong-THU"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

@@ -8,11 +8,8 @@ redirect_from:
   - /talk.html
 ---
 
-* **Statistical Inference for Segmented Models** [[slides]](http://hanyan-stat.github.io/files/SRM-Slides.pdf)
-  * April 2023, The 12th National Probability and Statistics Conference of China.
-  * August 2023, Hangzhou International Conference on Frontiers of Data Science.
-
-* **Transfer Learning with General Estimating Equations** [[slides]](http://hanyan-stat.github.io/files/TL-Slides.pdf)
-  * June 2024, IMS-China International Conference on Statistics and Probability.
-  * July 2024, the 2nd Joint Conference on Statistics and Data Science in China (JCSDS).
-  
+* **Semisupervised D-learning for optimal individualized treatment regimes** [[slides]](http://xintongli.github.io/files/SSDL-Slides.pdf)
+  * July 2025, the 3nd Joint Conference on Statistics and Data Science (**JCSDS**) in China. 
+* **Efficient semi-supervised estimation of optimal individual treatment regimes with survival outcome** [[slides]](http://xintongli.github.io/files/SSITR-censor-Slides.pdf)
+  * June 2025, International Chinese Statistical Association (**ICSA**) 2025 China Conference.
+  * December 2024, The 14th 3+X Workshop on Statistics and Its Applications in China. 
