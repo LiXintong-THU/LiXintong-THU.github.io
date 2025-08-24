@@ -15,9 +15,9 @@ redirect_from:
 
 ### Journal Articles
 
-* Doubly robust estimation of optimal individual treatment regime in a semi-supervised framework <br>**Xintong Li**, Mengjiao Peng#,  Yong Zhou#. <br>Statistica Sinica (2025). [[main](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0168_na.pdf)] [[Supp](https://www3.stat.sinica.edu.tw/preprint/supp/2025-0168_supp.pdf)]<br>
+* Doubly robust estimation of optimal individual treatment regime in a semi-supervised framework <br>**Xintong Li**, Mengjiao Peng#,  Yong Zhou#. <br>Statistica Sinica (2025). [[main](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0168_na.pdf)] [[supp](https://www3.stat.sinica.edu.tw/preprint/supp/2025-0168_supp.pdf)]<br>
 
-* Semisupervised D-learning for optimal individualized treatment regimes<br>**Xintong Li**, Shuyi Zhang#,  Yong Zhou#.<br>Stat (2025). [[main](https://onlinelibrary.wiley.com/doi/10.1002/sta4.70063?af=R)] [[Supp](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.70063&file=supporting_information_revised.pdf)]<br>
+* Semisupervised D-learning for optimal individualized treatment regimes<br>**Xintong Li**, Shuyi Zhang#,  Yong Zhou#.<br>Stat (2025). [[main](https://onlinelibrary.wiley.com/doi/10.1002/sta4.70063?af=R)] [[supp](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.70063&file=supporting_information_revised.pdf)]<br>
 
 ### Manuscripts
 * Efficient semi-supervised estimation of optimal individual treatment regimes with survival outcome <br>**Xintong Li**†, Minghao Chen†,  Jialiang Li, Yong Zhou#. <br>Under Review.<br>
