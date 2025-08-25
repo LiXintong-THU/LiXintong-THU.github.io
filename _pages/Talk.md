@@ -12,4 +12,4 @@ redirect_from:
   * July 2025, the 3rd Joint Conference on Statistics and Data Science (**JCSDS**) in China. 
 * **Efficient semi-supervised estimation of optimal individual treatment regimes with survival outcome** [[slides]](/files/SSITR-censor-Slides.pdf)
   * June 2025, International Chinese Statistical Association (**ICSA**) 2025 China Conference.
-  * December 2024, The 14th 3+X Workshop on Statistics and Its Applications in China. 
+  * December 2024, the 14th 3+X Workshop on Statistics and Its Applications in China. 
