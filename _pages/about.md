@@ -22,6 +22,5 @@ My research interests focus  on:
 - Data Integration
 - Causal Inference
 - Semi-supervised Learning
-- Reinforcement Learning
 
 If you are interested in any aspect of my work, I am always open to discussions and academic collaborations. Please feel free to contact me via e-mail: xtli@tsinghua.edu.cn. 
