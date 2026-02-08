@@ -23,4 +23,4 @@ My research interests focus  on:
 - Causal Inference
 - Semi-supervised Learning
 
-If you are interested in any aspect of my work, I am always open to discussions and academic collaborations. Please feel free to contact me via e-mail: xtli@tsinghua.edu.cn. 
+If you are interested in any aspect of my work, I am always open to discussions and academic collaborations. Please feel free to contact me via e-mail: xtli@tsinghua.edu.cn. A current version of my CV is available [here](/files/CV-xtli260208.pdf).

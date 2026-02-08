@@ -1,6 +1,6 @@
 ---
 permalink: /TA/
-title: "Teaching Assistent"
+title: "Teaching Assistant"
 excerpt: "TA"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /teach.html
 ---
 
+* **Introduction to Data Analysis**
+   * Fall 2025, undergraduate course by Prof. [Song Xi Chen](https://www.songxichen.com/)
 * **Probability and Statistics**
    * Spring 2023, undergraduate course by Assoc. Prof. [Zhonghao Xu](https://faculty.ecnu.edu.cn/_s35/xzh2/main.psp)
 * **Econometrics**
