@@ -19,6 +19,8 @@ redirect_from:
 
 * Semisupervised D-learning for optimal individualized treatment regimes.<br>**Xintong Li**, Shuyi Zhang#,  Yong Zhou#.<br>Stat (2025). [[main](https://onlinelibrary.wiley.com/doi/10.1002/sta4.70063?af=R)] [[supp](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsta4.70063&file=supporting_information_revised.pdf)]<br>
 
-### Manuscripts
-* Efficient semi-supervised estimation of optimal individual treatment regimes with survival outcome. <br>**Xintong Li**†, Minghao Chen†,  Jialiang Li, Yong Zhou#. <br>Major Revision.<br>
+* Efficient semi-supervised estimation of optimal individual treatment regimes with survival outcome. <br>**Xintong Li**†, Minghao Chen†,  Jialiang Li, Yong Zhou#. <br>Statistical Methods in Medical Reasearch (2026). [[main](/files/SMMR2026-main.pdf)] [[supp](https://journals.sagepub.com/doi/abs/10.1177/09622802261460255)]<br>
+
+%### Manuscripts
+
 
