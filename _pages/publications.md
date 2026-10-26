@@ -21,6 +21,6 @@ redirect_from:
 
 * Efficient semi-supervised estimation of optimal individual treatment regimes with survival outcome. <br>**Xintong Li**†, Minghao Chen†,  Jialiang Li, Yong Zhou#. <br>Statistical Methods in Medical Reasearch (2026). [[main](/files/SMMR2026-main.pdf)] [[supp](https://journals.sagepub.com/doi/abs/10.1177/09622802261460255)]<br>
 
-%### Manuscripts
+
 
 
